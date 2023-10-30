@@ -1,0 +1,6 @@
+{
+    // List of extensions which should be recommended for users of this workspace.
+    "recommendations": ["runem.lit-plugin"],
+    // List of extentions recommended by VS Code that should not be recommended for users of this workspace.
+    "unwantedRecommendations": []
+}
